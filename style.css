@@ -1,0 +1,88 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box
+{
+   background-color: mediumspringgreen;
+   width: 500px;
+   height: 400px;
+   margin: 90px auto;
+   border-radius: 10px;
+}
+
+.h1
+{
+padding-top: 80px;
+padding-left: 30px;
+padding-right: 30px;
+
+}
+.btn
+{
+    border-radius: 20px;
+   border: none;
+   padding: 15px 35px;
+   margin-top: 10px;
+   
+}
+img
+{
+   
+    width: 60%;
+    padding-left: 45px;
+}
+.login
+{
+ margin: 30px auto;  
+ width: 340px;
+ border: none;
+ padding: 40px 60px ;
+}
+.login h4
+{
+    padding-left: 75px;
+}
+.inp1
+{
+    border-radius: 20px;
+    width: 90%;
+    padding:20px 20px;
+
+    margin-bottom: 10px;
+    border: 2px solid rgb(249, 243, 243);
+}
+.inp2
+{
+    border-radius: 20px;
+    width: 90%;
+    padding:20px 20px;
+
+    margin-bottom: 10px;
+    border: 2px solid rgb(249, 243, 243);
+}
+.log-btn
+{
+ color: white;
+ background-color: black;
+ padding: 15px 40px;
+ border-radius: 20px;
+ margin: 15px 30px;
+ width: 80%;
+ 
+
+} 
+.p
+{
+padding-left: 70px;
+color: rgba(84, 84, 84, 0.696);
+}
+.for
+{
+    margin-left: 65px;
+}
+.footer
+{
+    color: gray;
+    
+}
